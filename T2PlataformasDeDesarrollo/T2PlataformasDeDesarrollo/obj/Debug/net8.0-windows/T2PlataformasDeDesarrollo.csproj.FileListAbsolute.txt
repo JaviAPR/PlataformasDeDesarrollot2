@@ -1,0 +1,37 @@
+C:\Users\javi_\source\repos\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\bin\Debug\net8.0-windows\T2PlataformasDeDesarrollo.exe
+C:\Users\javi_\source\repos\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\bin\Debug\net8.0-windows\T2PlataformasDeDesarrollo.deps.json
+C:\Users\javi_\source\repos\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\bin\Debug\net8.0-windows\T2PlataformasDeDesarrollo.runtimeconfig.json
+C:\Users\javi_\source\repos\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\bin\Debug\net8.0-windows\T2PlataformasDeDesarrollo.dll
+C:\Users\javi_\source\repos\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\bin\Debug\net8.0-windows\T2PlataformasDeDesarrollo.pdb
+C:\Users\javi_\source\repos\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\T2PlataformasDeDesarrollo.Form1.resources
+C:\Users\javi_\source\repos\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\T2PlataformasDeDesarrollo.Properties.Resources.resources
+C:\Users\javi_\source\repos\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\T2PlataformasDeDesarrollo.csproj.GenerateResource.cache
+C:\Users\javi_\source\repos\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\T2PlataformasDeDesarrollo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javi_\source\repos\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\T2PlataformasDeDesarrollo.AssemblyInfoInputs.cache
+C:\Users\javi_\source\repos\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\T2PlataformasDeDesarrollo.AssemblyInfo.cs
+C:\Users\javi_\source\repos\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\T2PlataformasDeDesarrollo.csproj.CoreCompileInputs.cache
+C:\Users\javi_\source\repos\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\T2PlataformasDeDesarrollo.dll
+C:\Users\javi_\source\repos\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\refint\T2PlataformasDeDesarrollo.dll
+C:\Users\javi_\source\repos\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\T2PlataformasDeDesarrollo.pdb
+C:\Users\javi_\source\repos\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\T2PlataformasDeDesarrollo.genruntimeconfig.cache
+C:\Users\javi_\source\repos\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\ref\T2PlataformasDeDesarrollo.dll
+C:\Users\javi_\source\repos\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\T2PlataformasDeDesarrollo.Factura.resources
+C:\Users\javi_\OneDrive - UNIR\Plataformas de Desarrollo\taller2\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\bin\Debug\net8.0-windows\T2PlataformasDeDesarrollo.exe
+C:\Users\javi_\OneDrive - UNIR\Plataformas de Desarrollo\taller2\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\bin\Debug\net8.0-windows\T2PlataformasDeDesarrollo.deps.json
+C:\Users\javi_\OneDrive - UNIR\Plataformas de Desarrollo\taller2\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\bin\Debug\net8.0-windows\T2PlataformasDeDesarrollo.runtimeconfig.json
+C:\Users\javi_\OneDrive - UNIR\Plataformas de Desarrollo\taller2\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\bin\Debug\net8.0-windows\T2PlataformasDeDesarrollo.dll
+C:\Users\javi_\OneDrive - UNIR\Plataformas de Desarrollo\taller2\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\bin\Debug\net8.0-windows\T2PlataformasDeDesarrollo.pdb
+C:\Users\javi_\OneDrive - UNIR\Plataformas de Desarrollo\taller2\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\T2PlataformasDeDesarrollo.Factura.resources
+C:\Users\javi_\OneDrive - UNIR\Plataformas de Desarrollo\taller2\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\T2PlataformasDeDesarrollo.Form1.resources
+C:\Users\javi_\OneDrive - UNIR\Plataformas de Desarrollo\taller2\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\T2PlataformasDeDesarrollo.Properties.Resources.resources
+C:\Users\javi_\OneDrive - UNIR\Plataformas de Desarrollo\taller2\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\T2PlataformasDeDesarrollo.csproj.GenerateResource.cache
+C:\Users\javi_\OneDrive - UNIR\Plataformas de Desarrollo\taller2\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\T2PlataformasDeDesarrollo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javi_\OneDrive - UNIR\Plataformas de Desarrollo\taller2\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\T2PlataformasDeDesarrollo.AssemblyInfoInputs.cache
+C:\Users\javi_\OneDrive - UNIR\Plataformas de Desarrollo\taller2\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\T2PlataformasDeDesarrollo.AssemblyInfo.cs
+C:\Users\javi_\OneDrive - UNIR\Plataformas de Desarrollo\taller2\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\T2PlataformasDeDesarrollo.csproj.CoreCompileInputs.cache
+C:\Users\javi_\OneDrive - UNIR\Plataformas de Desarrollo\taller2\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\T2PlataformasDeDesarrollo.sourcelink.json
+C:\Users\javi_\OneDrive - UNIR\Plataformas de Desarrollo\taller2\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\T2PlataformasDeDesarrollo.dll
+C:\Users\javi_\OneDrive - UNIR\Plataformas de Desarrollo\taller2\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\refint\T2PlataformasDeDesarrollo.dll
+C:\Users\javi_\OneDrive - UNIR\Plataformas de Desarrollo\taller2\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\T2PlataformasDeDesarrollo.pdb
+C:\Users\javi_\OneDrive - UNIR\Plataformas de Desarrollo\taller2\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\T2PlataformasDeDesarrollo.genruntimeconfig.cache
+C:\Users\javi_\OneDrive - UNIR\Plataformas de Desarrollo\taller2\T2PlataformasDeDesarrollo\T2PlataformasDeDesarrollo\obj\Debug\net8.0-windows\ref\T2PlataformasDeDesarrollo.dll
